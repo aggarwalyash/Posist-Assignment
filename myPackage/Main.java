@@ -87,6 +87,7 @@ class Main()
 				default: System.out.println("You entered a wrong choice. Press -1 to exit");
 					 break;				
 			}
+			System.out.println("Enter your choice. Press -1 to exit! ");
 			n = scan.nextInt();
 			if(n==-1){
 				check = false;
