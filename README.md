@@ -1,5 +1,5 @@
 # Posist-Test
-A repository for test conducted by Posist Technologies.
+A repository for assignment given by Posist Technologies.
 
 1.) myPackage consists of the source files.
 
