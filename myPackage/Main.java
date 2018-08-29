@@ -1,3 +1,12 @@
+/**
+
+To store each record we can use a hashmap in order to easily receive every item in O(1) time.
+ The key in HashMap will be the the nodeid and data stored will be of type node.
+ For every child node of a parent node, we can update the array of each parent node.
+ In order to decrypt, we can get the nodeId,name,hashValue.
+
+**/
+
 package myPackage;                                   // main package
 import java.util.*;
 import java.lang.*;
